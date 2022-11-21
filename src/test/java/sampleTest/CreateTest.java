@@ -6,6 +6,7 @@ public class CreateTest {
 		// TODO Auto-generated method stub
 
 		System.out.println("Created test");
+		System.out.println("Created new test");
 	}
 
 }
